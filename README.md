@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-![Stats](https://github-readme-stats.vercel.app/api?username=KalykovaMedina&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalykovaMedina&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 🐍 Snake Game
 
